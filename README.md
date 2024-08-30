@@ -1,4 +1,4 @@
-# Fraud Detection in Imbalanced Credit Card Transactions
+# Fraud Detection in Credit Card Transactions
 
 ## Project Overview
 This project focuses on detecting fraudulent transactions in a heavily class-imbalanced credit card dataset using a combination of advanced data preprocessing, machine learning models, and performance optimization techniques.
